@@ -41,6 +41,7 @@ fi
 #INTERIM.$memberid.item_num_item_desc_supp_det_violation.txt
 #INTERIM.$memberid.vendor_code_vendor_name_supp_util_violation.txt
 
+Addition of new column
 #--------------------------## proc_cd - proc_name ##----------------------------------------#
 
 if [ -s $TargetFileDir/SSF_case_px.$memberid.* ]
